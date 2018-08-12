@@ -1,0 +1,229 @@
+1.0	Photosynthesis	is	process used by plants
+1.0	Photosynthesis	is	process used
+1.0	Photosynthesis	is	process
+1.0	oxygen	is	In cases released as waste product
+1.0	oxygen	is also released In	cases
+1.0	oxygen	is released In	most cases
+1.0	oxygen	is	In cases also released as waste product
+1.0	oxygen	is	In most cases also released as waste product
+1.0	oxygen	is	In most cases released as waste product
+1.0	oxygen	is also released In	most cases
+1.0	oxygen	is released In	cases
+1.0	organisms	are called	photoautotrophs
+1.0	such organisms	are	called
+1.0	organisms	are	called
+1.0	such organisms	are called	photoautotrophs
+1.0	Photosynthesis	is	responsible
+1.0	Earth	of	atmosphere
+1.0	Photosynthesis	producing	oxygen content
+1.0	Photosynthesis	is	largely responsible
+1.0	Photosynthesis	producing	oxygen content of Earth 's atmosphere
+1.0	process	always begins	performed differently by different species
+1.0	photosynthesis	is performed by	species
+1.0	process	begins	performed differently
+1.0	energy	is	when absorbed
+1.0	photosynthesis	is	performed
+1.0	process	begins	performed by species
+1.0	process	begins	performed differently by different species
+1.0	photosynthesis	is performed by	different species
+1.0	process	always begins	performed
+1.0	photosynthesis	is performed differently by	species
+1.0	photosynthesis	is performed differently by	different species
+1.0	process	begins	performed differently by species
+1.0	process	always begins	performed differently
+1.0	process	begins	performed by different species
+1.0	process	begins	performed
+1.0	energy	is	absorbed
+1.0	process	always begins	performed by different species
+1.0	process	always begins	performed by species
+1.0	process	always begins	performed differently by species
+1.0	photosynthesis	is	performed differently
+1.0	they	are	embedded
+1.0	proteins	are held	embedded in plasma membrane
+1.0	proteins	are held	embedded
+1.0	proteins	are held In	plants
+1.0	they	are embedded in	bacteria
+1.0	proteins	are held	in bacteria embedded
+1.0	proteins	are	held
+1.0	proteins	are held	in bacteria embedded in plasma membrane
+1.0	they	are embedded in	plasma membrane
+1.0	they	are	in bacteria embedded in plasma membrane
+1.0	energy	is	In light reactions used to strip electrons
+1.0	energy	is	In light dependent reactions used to strip electrons from suitable substances
+1.0	energy	is used to	strip electrons from suitable substances
+1.0	energy	is	In light dependent reactions used to strip electrons from substances
+1.0	energy	is used to	strip electrons
+1.0	energy	is	In light reactions used to strip electrons from substances
+1.0	energy	is	In light reactions used to strip electrons from suitable substances
+1.0	energy	is	In light dependent reactions used to strip electrons
+1.0	energy	is used In	light dependent reactions
+1.0	energy	is used In	light reactions
+1.0	energy	is used to	strip electrons from substances
+1.0	energy	is	used
+1.0	compounds	are reduced	nicotinamide adenine dinucleotide phosphate NADPH
+0.01311160545069101	compounds	are	reduced
+1.0	compounds	are reduced	adenosine triphosphate ATP
+1.0	compounds	are reduced	adenine dinucleotide phosphate NADPH
+1.0	compounds	are reduced	energy currency
+1.0	compounds	are reduced	energy currency of cells
+1.0	term energy storage	is produced by	subsequent sequence called
+1.0	long term energy storage	is produced by	sequence of independent reactions called
+1.0	term energy storage	is produced by	subsequent sequence of reactions
+1.0	long term energy storage	is produced by	sequence of light reactions called
+1.0	term energy storage	is produced by	subsequent sequence of light reactions called
+1.0	long term energy storage	is produced by	subsequent sequence of reactions called
+1.0	term energy storage	is	produced
+1.0	term energy storage	is produced by	subsequent sequence of reactions called
+1.0	term energy storage	is produced by	subsequent sequence of independent reactions called
+1.0	term energy storage	is produced by	sequence
+1.0	long term energy storage	is produced by	sequence of light independent reactions
+1.0	term energy storage	is produced by	sequence of independent reactions called
+1.0	long term energy storage	is produced by	sequence called
+1.0	long term energy storage	is in	form of sugars
+1.0	term energy storage	is produced by	subsequent sequence
+1.0	long term energy storage	is produced by	sequence of light reactions
+1.0	long term energy storage	is	produced
+1.0	term energy storage	is produced by	sequence of light reactions
+1.0	term energy storage	is produced by	sequence of light independent reactions
+1.0	long term energy storage	is produced by	subsequent sequence
+1.0	term energy storage	is produced by	sequence of reactions called
+1.0	term energy storage	is produced by	subsequent sequence of independent reactions
+1.0	term energy storage	is produced by	sequence of light independent reactions called
+1.0	term energy storage	is produced by	sequence of reactions
+1.0	long term energy storage	is produced by	subsequent sequence of independent reactions
+1.0	term energy storage	is produced by	sequence called
+1.0	long term energy storage	is produced by	subsequent sequence called
+1.0	long term energy storage	is produced by	subsequent sequence of reactions
+1.0	term energy storage	is produced by	subsequent sequence of light reactions
+1.0	term energy storage	is produced by	sequence of independent reactions
+1.0	long term energy storage	is produced by	subsequent sequence of light independent reactions
+1.0	long term energy storage	is produced by	sequence of independent reactions
+1.0	long term energy storage	is produced by	sequence of light independent reactions called
+1.0	long term energy storage	is produced by	subsequent sequence of light independent reactions called
+1.0	long term energy storage	is produced by	sequence
+1.0	term energy storage	is produced by	subsequent sequence of light independent reactions
+1.0	long term energy storage	is produced by	subsequent sequence of independent reactions called
+1.0	term energy storage	is produced by	sequence of light reactions called
+1.0	term energy storage	is produced by	subsequent sequence of light independent reactions called
+1.0	long term energy storage	is produced by	subsequent sequence of light reactions
+1.0	long term energy storage	is produced by	sequence of reactions
+1.0	long term energy storage	is produced by	subsequent sequence of light reactions called
+1.0	long term energy storage	is produced by	sequence of reactions called
+1.0	carbon dioxide	is	In Calvin cycle incorporated into organic carbon compounds
+1.0	atmospheric carbon dioxide	is	In Calvin cycle incorporated into carbon compounds
+1.0	carbon dioxide	is	In Calvin cycle incorporated into already existing organic carbon compounds
+1.0	carbon dioxide	is incorporated into	already existing organic carbon compounds
+1.0	atmospheric carbon dioxide	is	In Calvin cycle incorporated into organic carbon compounds
+1.0	atmospheric carbon dioxide	is incorporated into	already existing carbon compounds
+1.0	carbon dioxide	is incorporated into	already existing carbon compounds
+1.0	carbon dioxide	is incorporated into	existing carbon compounds
+1.0	atmospheric carbon dioxide	is	incorporated
+1.0	atmospheric carbon dioxide	is	In Calvin cycle incorporated into existing carbon compounds
+1.0	atmospheric carbon dioxide	is incorporated into	existing carbon compounds
+1.0	carbon dioxide	is	In Calvin cycle incorporated into already existing carbon compounds
+1.0	carbon dioxide	is	incorporated
+1.0	atmospheric carbon dioxide	is	In Calvin cycle incorporated into already existing carbon compounds
+1.0	carbon dioxide	is incorporated In	Calvin cycle
+1.0	carbon dioxide	is incorporated into	existing organic carbon compounds
+1.0	carbon dioxide	is incorporated into	carbon compounds
+1.0	carbon dioxide	is	In Calvin cycle incorporated into existing carbon compounds
+1.0	atmospheric carbon dioxide	is incorporated into	already existing organic carbon compounds
+1.0	carbon dioxide	is	In Calvin cycle incorporated into existing organic carbon compounds
+1.0	atmospheric carbon dioxide	is	In Calvin cycle incorporated into existing organic carbon compounds
+1.0	atmospheric carbon dioxide	is incorporated In	Calvin cycle
+1.0	atmospheric carbon dioxide	is incorporated into	organic carbon compounds
+1.0	atmospheric carbon dioxide	is	In Calvin cycle incorporated into already existing organic carbon compounds
+1.0	atmospheric carbon dioxide	is incorporated into	existing organic carbon compounds
+1.0	carbon dioxide	is	In Calvin cycle incorporated into carbon compounds
+1.0	atmospheric carbon dioxide	is incorporated into	carbon compounds
+1.0	carbon dioxide	is incorporated into	organic carbon compounds
+1.0	compounds	Using	ATP produced by light dependent reactions
+1.0	compounds	are	then reduced
+1.0	resulting compounds	are	then reduced
+1.0	resulting compounds	Using	ATP produced
+1.0	compounds	Using	ATP
+1.0	resulting compounds	form	carbohydrates
+1.0	resulting compounds	Using	ATP
+1.0	compounds	Using	ATP produced by light reactions
+1.0	compounds	form	carbohydrates
+1.0	compounds	Using	ATP produced
+1.0	resulting compounds	are	reduced
+1.0	compounds	form	further carbohydrates
+1.0	resulting compounds	Using	ATP produced by light dependent reactions
+1.0	resulting compounds	form	further carbohydrates
+1.0	compounds	Using	NADPH
+1.0	resulting compounds	Using	ATP produced by light reactions
+1.0	resulting compounds	Using	NADPH
+1.0	compounds	are	reduced
+1.0	organisms	probably evolved in	early history of life
+1.0	organisms	probably evolved in	early history
+1.0	first organisms	water as	sources of electrons
+1.0	organisms	probably evolved in	evolutionary history
+1.0	photosynthetic organisms	evolved in	early evolutionary history of life
+1.0	first photosynthetic organisms	probably evolved in	evolutionary history
+1.0	first photosynthetic organisms	probably evolved in	history of life
+1.0	photosynthetic organisms	evolved in	history of life
+1.0	photosynthetic organisms	evolved in	early evolutionary history
+1.0	organisms	evolved in	evolutionary history of life
+1.0	first organisms	probably evolved in	early evolutionary history
+1.0	first organisms	water as	sources
+1.0	organisms	water as	sources of electrons
+1.0	first photosynthetic organisms	evolved in	early history of life
+1.0	organisms	probably evolved in	early evolutionary history of life
+1.0	photosynthetic organisms	evolved in	evolutionary history of life
+1.0	first photosynthetic organisms	water as	sources of electrons
+1.0	first photosynthetic organisms	evolved in	evolutionary history of life
+1.0	photosynthetic organisms	evolved in	early history of life
+1.0	organisms	probably evolved in	evolutionary history of life
+1.0	first organisms	evolved in	early evolutionary history of life
+1.0	organisms	evolved in	history
+1.0	photosynthetic organisms	evolved in	evolutionary history
+1.0	first photosynthetic organisms	evolved in	early evolutionary history
+1.0	first photosynthetic organisms	probably evolved in	early evolutionary history
+1.0	first photosynthetic organisms	evolved in	early history
+1.0	photosynthetic organisms	water as	sources of electrons
+1.0	first photosynthetic organisms	probably evolved in	early evolutionary history of life
+1.0	photosynthetic organisms	water as	sources
+1.0	photosynthetic organisms	probably evolved in	evolutionary history
+1.0	first organisms	evolved in	evolutionary history
+1.0	organisms	evolved in	early evolutionary history of life
+1.0	photosynthetic organisms	probably evolved in	history of life
+1.0	organisms	evolved in	early history of life
+1.0	organisms	water as	sources
+1.0	first photosynthetic organisms	probably evolved in	evolutionary history of life
+1.0	photosynthetic organisms	probably evolved in	early evolutionary history
+1.0	first organisms	evolved in	history
+1.0	first photosynthetic organisms	evolved in	evolutionary history
+1.0	photosynthetic organisms	probably evolved in	early history
+1.0	first photosynthetic organisms	evolved in	history
+1.0	first organisms	evolved in	early history
+1.0	first organisms	probably evolved in	early history
+1.0	organisms	evolved in	history of life
+1.0	photosynthetic organisms	probably evolved in	early history of life
+1.0	first organisms	evolved in	early evolutionary history
+1.0	photosynthetic organisms	evolved in	early history
+1.0	first organisms	probably evolved in	evolutionary history
+1.0	first photosynthetic organisms	probably evolved in	history
+1.0	organisms	evolved in	early history
+1.0	photosynthetic organisms	probably evolved in	evolutionary history of life
+1.0	first organisms	probably evolved in	early evolutionary history of life
+1.0	organisms	probably evolved in	early evolutionary history
+1.0	photosynthetic organisms	evolved in	history
+1.0	first photosynthetic organisms	evolved in	history of life
+1.0	first organisms	probably evolved in	history
+1.0	organisms	evolved in	early evolutionary history
+1.0	organisms	evolved in	evolutionary history
+1.0	first photosynthetic organisms	probably evolved in	early history of life
+1.0	first organisms	evolved in	evolutionary history of life
+1.0	photosynthetic organisms	probably evolved in	history
+1.0	first photosynthetic organisms	probably evolved in	early history
+1.0	first organisms	evolved in	history of life
+1.0	first organisms	probably evolved in	evolutionary history of life
+1.0	first photosynthetic organisms	evolved in	early evolutionary history of life
+1.0	photosynthetic organisms	probably evolved in	early evolutionary history of life
+1.0	first organisms	probably evolved in	history of life
+1.0	first organisms	probably evolved in	early history of life
+1.0	organisms	probably evolved in	history of life
+1.0	first organisms	evolved in	early history of life
+1.0	first photosynthetic organisms	water as	sources
+1.0	organisms	probably evolved in	history

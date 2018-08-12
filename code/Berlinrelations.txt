@@ -1,0 +1,30 @@
+1.0	Berlin	documented in	century
+1.0	Berlin	First documented in	13th century
+1.0	Berlin	was capital of	Kingdom of Prussia 1701
+1.0	Berlin	was capital of	Kingdom
+1.0	Berlin	documented in	13th century
+1.0	Berlin	was	capital
+1.0	Berlin	First documented in	century
+1.0	Berlin	was third largest municipality in	world
+1.0	Berlin	was	municipality
+1.0	Berlin	was third municipality in	world
+1.0	Berlin	was	third municipality
+1.0	Berlin	is in	1920s
+1.0	Berlin	was	largest municipality
+1.0	Berlin	was largest municipality in	world
+1.0	third largest municipality	is in	world
+1.0	Berlin	was municipality in	world
+1.0	Berlin	was	third largest municipality
+1.0	city	became After	World War II
+0.1448874864707259	city	divided into	East Berlin
+0.1448874864707259	city	became	divided into East Berlin
+1.0	city	divided	capital of East Germany
+1.0	city	divided	capital
+1.0	city	divided capital into	East Berlin
+0.1448874864707259	city	became	divided
+1.0	city	hosting	147 foreign embassies
+1.0	city	regained	its status as capital
+1.0	city	regained	its status
+1.0	city	hosting	147 embassies
+1.0	city	regained	its status as capital of Germany
+1.0	German reunification	is in	1990

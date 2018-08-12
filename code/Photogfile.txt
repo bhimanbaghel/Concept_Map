@@ -1,0 +1,14 @@
+earth	 of 	atmosphere	0.468757353784
+photosynthesis	 producing 	oxygen	0.651532229187
+photosynthesis	 producing oxygen content of	earth	0.337825585907
+photosynthesis	 producing oxygen content of earth 's	atmosphere	0.381516313725
+photosynthesis	 is performed by 	species	0.384789140696
+photosynthesis	 is performed by different	species	0.384789140696
+photosynthesis	 is performed differently by 	species	0.384789140696
+photosynthesis	 is performed differently by different	species	0.384789140696
+proteins	 are held in	bacteria	0.677088584379
+energy	 is in light reactions used to strip	electrons	0.473565603622
+energy	 is in light dependent reactions used to strip	electrons	0.473565603622
+carbon	dioxide is in calvin cycle incorporated into organic	carbon	0.999999907589
+carbon	dioxide is in calvin cycle incorporated into already existing organic	carbon	0.999999907589
+photosynthetic	organisms water as sources of	electrons	0.565052818009

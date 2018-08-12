@@ -1,0 +1,43 @@
+strict digraph  {
+	graph [center=true,
+		len=f,
+		overlap=false,
+		splines=false
+	];
+	bacteria -> prokaryotic	 [label=" constitute large domain of",
+		len=2.4,
+		penwidth=7.18735478882,
+		weight=0.718735478882];
+	bacteria -> microorganisms	 [label=" constitute large domain of prokaryotic",
+		len=3.0,
+		penwidth=8.86766259799,
+		weight=0.886766259799];
+	bacteria -> earth	 [label=" were among first life forms appear on",
+		len=4.2,
+		penwidth=2.91792942304,
+		weight=0.291792942304];
+	bacteria -> prokaryotes	 [label=" traditionally included ",
+		len=4,
+		penwidth=7.18429452163,
+		weight=0.718429452163];
+	earth -> crust	 [label=" of ",
+		len=2,
+		penwidth=4.98336017205,
+		weight=0.498336017205];
+	bacteriology -> microbiology	 [label=" branch of ",
+		len=4,
+		penwidth=8.62883692935,
+		weight=0.862883692935];
+	decomposition -> putrefaction	 [label=" are responsible for ",
+		len=6,
+		penwidth=5.66451137161,
+		weight=0.566451137161];
+	antibiotics -> farming	 [label=" are also used in ",
+		len=2.4,
+		penwidth=3.65297881713,
+		weight=0.365297881713];
+	membrane -> organelles	 [label=" bound ",
+		len=2,
+		penwidth=7.43745275912,
+		weight=0.743745275912];
+}

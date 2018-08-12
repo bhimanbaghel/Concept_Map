@@ -1,0 +1,10 @@
+berlin	 was capital of kingdom of	prussia	0.381926568173
+berlin	 was 	municipality	0.156831762911
+berlin	 was third	municipality	0.156831762911
+berlin	 was largest	municipality	0.156831762911
+berlin	 was third largest	municipality	0.156831762911
+city	 divided into east	berlin	0.337855382748
+city	 became divided into east	berlin	0.337855382748
+city	 divided capital of east	germany	0.195227854077
+city	 divided capital into east	berlin	0.337855382748
+city	 regained its status as capital of	germany	0.195227854077

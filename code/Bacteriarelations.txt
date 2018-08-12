@@ -1,0 +1,272 @@
+0.7151433935490811	noun bacteria	domain of	prokaryotic microorganisms
+1.0	common noun bacteria	constitute	large domain of microorganisms
+0.7151433935490811	common noun bacteria	domain of	microorganisms
+0.7151433935490811	common noun bacteria	large domain of	prokaryotic microorganisms
+0.7151433935490811	common noun bacteria	domain of	prokaryotic microorganisms
+1.0	common noun bacteria	constitute	large domain of prokaryotic microorganisms
+1.0	common noun bacteria	constitute	domain
+1.0	noun bacteria	constitute	large domain
+1.0	noun bacteria	constitute	domain
+0.7151433935490811	noun bacteria	domain of	microorganisms
+1.0	noun bacteria	constitute	domain of prokaryotic microorganisms
+1.0	common noun bacteria	constitute	large domain
+1.0	noun bacteria	constitute	large domain of microorganisms
+0.7151433935490811	noun bacteria	large domain of	microorganisms
+1.0	noun bacteria	constitute	large domain of prokaryotic microorganisms
+1.0	noun bacteria	constitute	domain of microorganisms
+1.0	common noun bacteria	constitute	domain of prokaryotic microorganisms
+0.7151433935490811	noun bacteria	large domain of	prokaryotic microorganisms
+1.0	common noun bacteria	constitute	domain of microorganisms
+0.7151433935490811	common noun bacteria	large domain of	microorganisms
+1.0	micrometres	ranging from	spheres to rods
+1.0	few micrometres	is in	length
+1.0	micrometres	ranging from	spheres
+1.0	few micrometres	ranging from	spheres to rods
+1.0	few micrometres	ranging from	spheres
+1.0	Bacteria	were among	life forms appear on Earth
+1.0	Bacteria	were among	first life forms appear on Earth
+1.0	Bacteria	were among	first life forms appear
+1.0	Bacteria	were among	life forms appear
+1.0	Earth	of	crust
+1.0	symbiotic relationships	is with	plants
+1.0	bacteriology	branch of	microbiology
+1.0	40 million bacterial cells	is in	millilitre of fresh water
+1.0	bacterial cells	are in	gram of soil
+1.0	bacterial cells	are in	gram
+1.0	decomposition	are	responsible
+1.0	putrefaction stage	is in	process.In
+1.0	bacteria	provide	nutrients
+1.0	decomposition	are responsible for	putrefaction stage
+1.0	bacteria	provide	nutrients needed
+1.0	extremophile bacteria	provide	nutrients
+1.0	extremophile bacteria	provide	nutrients needed
+1.0	decomposition	are responsible for	putrefaction stage in process.In
+1.0	deepest known part	is with	depth of up 11 kilometres
+1.0	oceans.Other researchers	is in	October 2012
+1.0	microbes	thrive inside	rocks
+1.0	It	was	suggested
+1.0	researchers	is in	October 2012
+1.0	researchers	is in	October 2012
+1.0	cells	outnumber	cells
+0.4787297616034043	bacterial cells	bacterial cells in	body
+0.4787297616034043	cells	bacterial cells in	human body
+0.4787297616034043	bacterial cells	cells in	body
+1.0	bacterial cells	outnumber	bacterial cells
+1.0	cells	outnumber cells in	human body
+0.4787297616034043	cells	cells in	human body
+1.0	cells	outnumber cells in	body
+1.0	bacterial cells	is in	human body
+1.0	bacterial cells	outnumber	cells
+1.0	notion	has	has debunked
+1.0	bacterial cells	outnumber cells by	factor of 10:1
+1.0	cells	outnumber cells by	factor of 10:1
+1.0	bacterial cells	outnumber cells by	factor
+1.0	bacterial cells	outnumber cells in	body
+0.4787297616034043	cells	bacterial cells in	body
+1.0	cells	outnumber	bacterial cells
+0.4787297616034043	bacterial cells	cells in	human body
+1.0	cells	outnumber cells by	factor
+0.4787297616034043	cells	cells in	body
+1.0	famous notion	has	has debunked
+0.4787297616034043	bacterial cells	bacterial cells in	human body
+1.0	bacterial cells	outnumber cells in	human body
+1.0	bacterial cells	are	personified
+1.0	bacterial cells	personified by	70 kg male 170 cm tall
+1.0	30 trillion human cells	are in	body
+1.0	bacterial cells	are in	microbiota
+1.0	bacterial cells	personified by	tall
+1.0	bacterial cells	are in	human microbiota
+1.0	bacterial cells	are	personified by 70 kg male 170 cm tall
+1.0	human cells	are in	human body
+1.0	bacterial cells	personified by	reference 70 kg male 170 cm tall
+1.0	bacterial cells	are	personified by reference tall
+1.0	bacterial cells	are	personified by tall
+1.0	30 trillion human cells	are in	human body
+1.0	bacterial cells	are	personified by reference 70 kg male 170 cm tall
+1.0	human cells	are in	body
+1.0	bacterial cells	personified by	reference tall
+1.0	upper hand	is in	actual numbers
+1.0	number	large number on	skin
+1.0	number	exist in	gut flora
+1.0	largest number	large number on	skin
+1.0	number	number on	skin
+1.0	largest number	exist in	gut flora
+1.0	largest number	number on	skin
+1.0	majority	are rendered by	protective effects
+1.0	many	are	beneficial
+1.0	many	are beneficial in	gut flora
+1.0	vast majority	are rendered	beneficial particularly in gut flora
+1.0	majority	are rendered by	effects of immune system
+1.0	vast majority	are rendered by	effects of system
+1.0	many	are beneficial in	particularly gut flora
+1.0	vast majority	are	rendered
+1.0	vast majority	are rendered by	effects of immune system
+1.0	vast majority	are rendered by	effects
+1.0	vast majority	are rendered by	protective effects
+1.0	majority	are rendered by	effects
+1.0	majority	are rendered by	protective effects of system
+1.0	vast majority	are rendered	harmless
+1.0	majority	are rendered	beneficial particularly in gut flora
+1.0	vast majority	are rendered by	protective effects of immune system
+1.0	majority	are rendered	beneficial in gut flora
+1.0	vast majority	are rendered	beneficial in gut flora
+1.0	vast majority	are rendered by	protective effects of system
+1.0	majority	are	rendered
+1.0	majority	are rendered	beneficial
+1.0	bacteria	is in	human body
+1.0	majority	are rendered by	protective effects of immune system
+1.0	vast majority	are rendered	beneficial
+1.0	majority	are rendered	harmless
+1.0	majority	are rendered by	effects of system
+1.0	common fatal bacterial diseases	are most common fatal diseases with	tuberculosis alone
+1.0	common fatal bacterial diseases	are most common diseases in	mostly sub Saharan Africa
+1.0	common fatal bacterial diseases	are	fatal bacterial diseases
+1.0	common fatal bacterial diseases	are	diseases
+1.0	common fatal bacterial diseases	are	most common fatal diseases with tuberculosis mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	common fatal bacterial diseases with tuberculosis alone mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	common fatal diseases with tuberculosis alone mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	common bacterial diseases with tuberculosis alone mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	most common bacterial diseases with tuberculosis in sub Saharan Africa
+1.0	common fatal bacterial diseases	are common fatal bacterial diseases in	sub Saharan Africa
+1.0	common fatal bacterial diseases	are fatal bacterial diseases in	mostly sub Saharan Africa
+1.0	common fatal bacterial diseases	are common fatal bacterial diseases with	tuberculosis alone
+1.0	common fatal bacterial diseases	are	bacterial diseases with tuberculosis alone in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	common diseases with tuberculosis alone mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	bacterial diseases with tuberculosis mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	diseases with tuberculosis in sub Saharan Africa
+1.0	common fatal bacterial diseases	are diseases in	sub Saharan Africa
+1.0	common fatal bacterial diseases	are	most common fatal diseases with tuberculosis alone mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	fatal bacterial diseases with tuberculosis in sub Saharan Africa
+1.0	common fatal bacterial diseases	are fatal bacterial diseases in	sub Saharan Africa
+1.0	common fatal bacterial diseases	are	fatal diseases with tuberculosis in sub Saharan Africa
+1.0	common fatal bacterial diseases	are most common diseases with	tuberculosis alone
+1.0	common fatal bacterial diseases	are	bacterial diseases
+1.0	common fatal bacterial diseases	are	most common fatal bacterial diseases with tuberculosis alone in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	common diseases with tuberculosis in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	most common diseases
+1.0	common fatal bacterial diseases	are	fatal diseases with tuberculosis mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are most common fatal bacterial diseases with	tuberculosis
+1.0	common fatal bacterial diseases	are bacterial diseases in	mostly sub Saharan Africa
+1.0	common fatal bacterial diseases	are	common fatal bacterial diseases with tuberculosis in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	fatal diseases with tuberculosis alone mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	diseases with tuberculosis alone mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are common fatal diseases with	tuberculosis
+1.0	common fatal bacterial diseases	are most common fatal diseases with	tuberculosis
+1.0	common fatal bacterial diseases	are fatal bacterial diseases with	tuberculosis
+1.0	common fatal bacterial diseases	are	common fatal diseases with tuberculosis in sub Saharan Africa
+1.0	common fatal bacterial diseases	is with	tuberculosis alone killing per year
+1.0	common fatal bacterial diseases	are	bacterial diseases with tuberculosis in sub Saharan Africa
+1.0	common fatal bacterial diseases	are common bacterial diseases with	tuberculosis
+1.0	common fatal bacterial diseases	are common bacterial diseases in	mostly sub Saharan Africa
+1.0	common fatal bacterial diseases	are fatal diseases in	mostly sub Saharan Africa
+1.0	common fatal bacterial diseases	are	fatal bacterial diseases with tuberculosis mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	common diseases with tuberculosis alone in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	most common diseases with tuberculosis in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	common bacterial diseases with tuberculosis in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	most common bacterial diseases with tuberculosis alone in sub Saharan Africa
+1.0	common fatal bacterial diseases	are common diseases with	tuberculosis
+1.0	common fatal bacterial diseases	are most common fatal diseases in	mostly sub Saharan Africa
+1.0	common fatal bacterial diseases	are bacterial diseases in	sub Saharan Africa
+1.0	common fatal bacterial diseases	are	most common fatal diseases
+1.0	common fatal bacterial diseases	are	common bacterial diseases with tuberculosis alone in sub Saharan Africa
+1.0	common fatal bacterial diseases	are common diseases in	sub Saharan Africa
+1.0	common fatal bacterial diseases	are bacterial diseases with	tuberculosis alone
+1.0	common fatal bacterial diseases	are	common fatal bacterial diseases
+1.0	common fatal bacterial diseases	are	common fatal diseases with tuberculosis alone in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	most common bacterial diseases
+1.0	common fatal bacterial diseases	are most common bacterial diseases with	tuberculosis alone
+1.0	common fatal bacterial diseases	are	most common diseases with tuberculosis mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	most common fatal bacterial diseases with tuberculosis alone mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are common bacterial diseases with	tuberculosis alone
+1.0	common fatal bacterial diseases	is in	mostly sub Saharan Africa
+1.0	common fatal bacterial diseases	are most common fatal bacterial diseases in	sub Saharan Africa
+1.0	common fatal bacterial diseases	are common diseases in	mostly sub Saharan Africa
+1.0	common fatal bacterial diseases	are most common bacterial diseases in	sub Saharan Africa
+1.0	common fatal bacterial diseases	are most common fatal bacterial diseases in	mostly sub Saharan Africa
+1.0	common fatal bacterial diseases	are most common diseases in	sub Saharan Africa
+1.0	common fatal bacterial diseases	are common fatal diseases with	tuberculosis alone
+1.0	common fatal bacterial diseases	are common fatal diseases in	mostly sub Saharan Africa
+1.0	common fatal bacterial diseases	are	most common fatal bacterial diseases with tuberculosis mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	common fatal diseases with tuberculosis mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are most common fatal diseases in	sub Saharan Africa
+1.0	common fatal bacterial diseases	are fatal diseases with	tuberculosis alone
+1.0	common fatal bacterial diseases	are	most common fatal bacterial diseases
+1.0	common fatal bacterial diseases	are	most common diseases with tuberculosis alone mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	common bacterial diseases with tuberculosis mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	common fatal bacterial diseases with tuberculosis alone in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	most common fatal bacterial diseases with tuberculosis in sub Saharan Africa
+1.0	common fatal bacterial diseases	are common bacterial diseases in	sub Saharan Africa
+1.0	common fatal bacterial diseases	are common fatal bacterial diseases in	mostly sub Saharan Africa
+1.0	common fatal bacterial diseases	are bacterial diseases with	tuberculosis
+1.0	common fatal bacterial diseases	are fatal bacterial diseases with	tuberculosis alone
+1.0	common fatal bacterial diseases	are diseases with	tuberculosis
+1.0	common fatal bacterial diseases	are most common fatal bacterial diseases with	tuberculosis alone
+1.0	common fatal bacterial diseases	are	fatal diseases
+1.0	common fatal bacterial diseases	are	bacterial diseases with tuberculosis alone mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are most common bacterial diseases in	mostly sub Saharan Africa
+1.0	common fatal bacterial diseases	are diseases with	tuberculosis alone
+1.0	common fatal bacterial diseases	are	diseases with tuberculosis alone in sub Saharan Africa
+1.0	common fatal bacterial diseases	are diseases in	mostly sub Saharan Africa
+1.0	common fatal bacterial diseases	are	most common bacterial diseases with tuberculosis alone mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	most common bacterial diseases with tuberculosis mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	common diseases with tuberculosis mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	common bacterial diseases
+1.0	common fatal bacterial diseases	are	most common fatal diseases with tuberculosis in sub Saharan Africa
+1.0	common fatal bacterial diseases	are fatal diseases with	tuberculosis
+1.0	common fatal bacterial diseases	are	common fatal bacterial diseases with tuberculosis mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	fatal bacterial diseases with tuberculosis alone mostly in sub Saharan Africa
+1.0	common fatal bacterial diseases	are fatal diseases in	sub Saharan Africa
+1.0	common fatal bacterial diseases	are common fatal bacterial diseases with	tuberculosis
+1.0	common fatal bacterial diseases	are	common fatal diseases
+1.0	common fatal bacterial diseases	are	fatal bacterial diseases with tuberculosis alone in sub Saharan Africa
+1.0	common fatal bacterial diseases	are common diseases with	tuberculosis alone
+1.0	common fatal bacterial diseases	are most common bacterial diseases with	tuberculosis
+1.0	common fatal bacterial diseases	are	most common diseases with tuberculosis alone in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	most common fatal diseases with tuberculosis alone in sub Saharan Africa
+1.0	common fatal bacterial diseases	are	fatal diseases with tuberculosis alone in sub Saharan Africa
+1.0	common fatal bacterial diseases	are common fatal diseases in	sub Saharan Africa
+1.0	common fatal bacterial diseases	are	common diseases
+1.0	common fatal bacterial diseases	are most common diseases with	tuberculosis
+1.0	common fatal bacterial diseases	are	diseases with tuberculosis mostly in sub Saharan Africa
+1.0	antibiotics	treat	common fatal bacterial diseases
+1.0	antibiotics	treat	common diseases
+1.0	antibiotics	treat	most common fatal diseases
+1.0	antibiotics	treat	fatal diseases
+1.0	antibiotics	are used In	countries
+1.0	antibiotics	treat	common fatal diseases
+1.0	antibiotics	treat	fatal bacterial diseases
+1.0	antibiotics	making	antibiotic resistance growing problem
+1.0	antibiotics	are	also used
+1.0	antibiotics	treat	most common diseases
+1.0	antibiotics	making	resistance growing problem
+1.0	antibiotics	making	resistance problem
+1.0	antibiotics	are also used in	farming
+1.0	antibiotics	are used In	developed countries
+1.0	antibiotics	are	used
+1.0	antibiotics	are	used
+1.0	antibiotics	making	antibiotic resistance problem
+1.0	antibiotics	treat	diseases
+1.0	antibiotics	treat	bacterial diseases
+1.0	antibiotics	treat	common bacterial diseases
+1.0	antibiotics	treat	most common fatal bacterial diseases
+1.0	antibiotics	are used in	farming
+1.0	antibiotics	treat	most common bacterial diseases
+1.0	recovery	is in	mining sector
+0.6732332665438434	plants	constituting	class Schizomycetes bækˈtɪəriə
+0.6732332665438434	plants	constituting	Bacteria
+1.0	plants	are now classified as	prokaryotes
+0.6732332665438434	plants	constituting	class Schizomycetes
+1.0	plants	are	now classified
+1.0	plants	are classified as	prokaryotes
+1.0	plants	are	classified
+1.0	39 trillion bacterial cells	is in	human microbiota
+1.0	membrane	bound	organelles
+1.0	classification	changed after	discovery
+1.0	discovery	is in	1990s consist of two very different groups of organisms
+1.0	term bacteria	traditionally included	prokaryotes
+1.0	term bacteria	included	prokaryotes
+1.0	scientific classification	changed after	discovery
+1.0	domains	are called	bækˈtɪəriə
+1.0	evolutionary domains	are	called
+1.0	evolutionary domains	are called	bækˈtɪəriə
+1.0	domains	are	called

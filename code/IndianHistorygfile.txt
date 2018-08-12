@@ -1,0 +1,37 @@
+indus	valley civilization genesis is in holy land now known as	india	0.35176769143
+indus	valley civilization genesis is in holy land now known as india around 2500	bc	0.377006944539
+civilization	genesis is in holy land now known as	india	0.233902957837
+civilization	genesis is in holy land now known as india around 2500	bc	0.361331678313
+indus	valley civilization saw 	indus	1.00000008109
+indus	valley civilization saw indus valley	civilization	0.662806989764
+indus	valley civilization saw indus valley civilization genesis in holy land known as	india	0.35176769143
+civilization	 saw 	indus	0.662806989764
+civilization	 saw indus valley	civilization	0.999999989566
+civilization	 saw indus valley civilization genesis in holy land known as	india	0.233902957837
+indus	valley civilization saw indus valley civilization genesis in land known as india around 2500	bc	0.377006944539
+civilization	 saw indus valley civilization genesis in land known as india around 2500	bc	0.361331678313
+indus	valley civilization saw indus valley civilization genesis in land now known as india around 2500	bc	0.377006944539
+civilization	 saw indus valley civilization genesis in land now known as india around 2500	bc	0.361331678313
+indus	valley civilization saw indus valley civilization genesis in holy land now known as	india	0.35176769143
+civilization	 saw indus valley civilization genesis in holy land now known as	india	0.233902957837
+indus	valley civilization saw indus valley civilization genesis in holy land now known as india around 2500	bc	0.377006944539
+civilization	 saw indus valley civilization genesis in holy land now known as india around 2500	bc	0.361331678313
+bc	 was witness to migration of	aryan	0.2286213904
+bc	 was witness to migration of	bucolic	0.180524225988
+bc	 was witness to migration of bucolic	aryan	0.2286213904
+aryan	tribes merged with 	bucolic	0.121505290639
+bucolic	tribes merged with 	bucolic	1.00000017128
+bucolic	tribes merged with bucolic	aryan	0.121505290639
+bucolic	tribes gradually merged with 	bucolic	1.00000017128
+bucolic	aryan tribes gradually merged with 	bucolic	1.00000017128
+aryan	tribes gradually merged with 	bucolic	0.121505290639
+aryan	tribes gradually merged with 	aryan	1.00000004542
+aryan	tribes gradually merged with bucolic	aryan	1.00000004542
+bucolic	aryan tribes gradually merged with 	aryan	0.121505290639
+bucolic	aryan tribes gradually merged with bucolic	aryan	0.121505290639
+ramayana	 in birth is descendants of	king	0.326877366152
+ramayana	 in birth is descendants of king	bharat	0.506480357721
+indian	settings ramayana in birth is descendants of	king	0.259864168371
+indian	settings ramayana in birth is descendants of king	bharat	0.377437715404
+mahabharta	 detailing war between	kauravas	0.641402261493
+gita	 scriptures in 	indian	0.36060115292

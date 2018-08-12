@@ -1,0 +1,249 @@
+1.0	Indus valley civilization genesis	is in	holy land now known as India around 2500 BC
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in holy land known as India
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in land known as India around 2500 BC
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in land now known as India around 2500 BC
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in holy land now known around 2500 BC
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in holy land now known
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in holy land
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in holy land now known as India
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in land known
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in holy land known
+1.0	Indus valley civilization	saw	Indus valley civilization genesis
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in land
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in land now known as India
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in holy land known around 2500 BC
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in land now known
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in land known around 2500 BC
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in land now known around 2500 BC
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in holy land now known as India around 2500 BC
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in holy land known as India around 2500 BC
+1.0	Indus valley civilization	saw	Indus valley civilization genesis in land known as India
+1.0	descendants	migrated to	south of India
+0.5756501077078514	people	inhabiting	Indus River valley
+1.0	descendants	later migrated to	south
+1.0	people	were	thought
+1.0	descendants	later migrated to	south of India
+1.0	descendants	migrated to	south
+1.0	deterioration	can	can attributed to changes
+1.0	deterioration	can	can attributed
+1.0	deterioration	can	can attributed to ecological changes
+1.0	millennium BC	was witness to	migration of tribes from North West frontier
+1.0	BC	was witness to	migration of Aryan tribes into sub continent
+1.0	second BC	was witness to	migration of Aryan tribes
+1.0	BC	was witness to	migration of tribes from North West frontier into sub continent
+1.0	second millennium BC	was witness to	migration of tribes
+1.0	second millennium BC	was witness to	migration of bucolic Aryan tribes from North West frontier into sub continent
+1.0	millennium BC	was witness to	migration of Aryan tribes from North West frontier
+1.0	BC	was witness to	migration of Aryan tribes
+1.0	second BC	was witness to	migration of tribes into sub continent
+1.0	BC	was	witness
+1.0	second millennium BC	was witness to	migration of Aryan tribes
+1.0	BC	was witness to	migration of bucolic Aryan tribes into sub continent
+1.0	second millennium BC	was witness to	migration of tribes from North West frontier
+1.0	BC	was witness to	migration
+1.0	second millennium BC	was witness to	migration of bucolic Aryan tribes into sub continent
+1.0	BC	was witness to	migration of bucolic Aryan tribes from North West frontier into sub continent
+1.0	second millennium BC	was witness to	migration
+1.0	BC	was witness to	migration of bucolic tribes from North West frontier into sub continent
+1.0	BC	was witness to	migration into sub continent
+1.0	millennium BC	was witness to	migration of Aryan tribes into sub continent
+1.0	second millennium BC	was witness to	migration of bucolic Aryan tribes from North West frontier
+1.0	second millennium BC	was witness to	migration of bucolic tribes from North West frontier
+1.0	second BC	was witness to	migration
+1.0	second BC	was witness to	migration of tribes from North West frontier
+1.0	second millennium BC	was witness to	migration into sub continent
+1.0	BC	was witness to	migration of bucolic tribes from North West frontier
+1.0	second millennium BC	was witness to	migration of bucolic tribes
+1.0	second BC	was witness to	migration of bucolic Aryan tribes
+1.0	second BC	was witness to	migration of bucolic tribes from North West frontier into sub continent
+1.0	second millennium BC	was witness to	migration of Aryan tribes into sub continent
+1.0	second BC	was witness to	migration of bucolic tribes into sub continent
+1.0	second BC	was witness to	migration of Aryan tribes into sub continent
+1.0	BC	was witness to	migration of Aryan tribes from North West frontier into sub continent
+1.0	BC	was witness to	migration of bucolic tribes
+1.0	BC	was witness to	migration of bucolic tribes into sub continent
+1.0	second BC	was witness to	migration of bucolic Aryan tribes from North West frontier
+1.0	second BC	was	witness
+1.0	millennium BC	was witness to	migration of bucolic Aryan tribes into sub continent
+1.0	millennium BC	was witness to	migration of tribes into sub continent
+1.0	millennium BC	was witness to	migration of tribes
+1.0	millennium BC	was witness to	migration
+1.0	millennium BC	was witness to	migration of tribes from North West frontier into sub continent
+1.0	BC	was witness to	migration of tribes from North West frontier
+1.0	second BC	was witness to	migration of bucolic tribes from North West frontier
+1.0	second BC	was witness to	migration of Aryan tribes from North West frontier
+1.0	second BC	was witness to	migration into sub continent
+1.0	millennium BC	was witness to	migration of bucolic Aryan tribes from North West frontier into sub continent
+1.0	millennium BC	was	witness
+1.0	millennium BC	was witness to	migration of bucolic tribes from North West frontier
+1.0	millennium BC	was witness to	migration of bucolic tribes from North West frontier into sub continent
+1.0	second BC	was witness to	migration of tribes from North West frontier into sub continent
+1.0	BC	was witness to	migration of tribes
+1.0	BC	was witness to	migration of tribes into sub continent
+1.0	BC	was witness to	migration of Aryan tribes from North West frontier
+1.0	second BC	was witness to	migration of bucolic Aryan tribes from North West frontier into sub continent
+1.0	second BC	was witness to	migration of Aryan tribes from North West frontier into sub continent
+1.0	millennium BC	was witness to	migration of bucolic Aryan tribes
+1.0	second millennium BC	was witness to	migration of tribes from North West frontier into sub continent
+1.0	BC	was witness to	migration of bucolic Aryan tribes
+1.0	second BC	was witness to	migration of bucolic tribes
+1.0	millennium BC	was witness to	migration into sub continent
+1.0	second millennium BC	was witness to	migration of tribes into sub continent
+1.0	millennium BC	was witness to	migration of bucolic tribes
+1.0	millennium BC	was witness to	migration of Aryan tribes
+1.0	second millennium BC	was witness to	migration of bucolic tribes into sub continent
+1.0	second BC	was witness to	migration of tribes
+1.0	second BC	was witness to	migration of bucolic Aryan tribes into sub continent
+1.0	second millennium BC	was witness to	migration of Aryan tribes from North West frontier into sub continent
+1.0	second millennium BC	was witness to	migration of Aryan tribes from North West frontier
+1.0	millennium BC	was witness to	migration of bucolic Aryan tribes from North West frontier
+1.0	millennium BC	was witness to	migration of Aryan tribes from North West frontier into sub continent
+1.0	second millennium BC	was witness to	migration of bucolic Aryan tribes
+1.0	second millennium BC	was witness to	migration of bucolic tribes from North West frontier into sub continent
+1.0	BC	was witness to	migration of bucolic Aryan tribes from North West frontier
+1.0	millennium BC	was witness to	migration of bucolic tribes into sub continent
+1.0	second millennium BC	was	witness
+1.0	Aryan tribes	gradually merged with	tribes
+1.0	tribes	merged with	tribes
+1.0	bucolic tribes	merged with	tribes
+1.0	Aryan tribes	merged with	bucolic tribes
+1.0	bucolic Aryan tribes	gradually merged with	tribes
+1.0	bucolic tribes	merged with	bucolic Aryan tribes
+1.0	bucolic tribes	gradually merged with	bucolic tribes
+0.7410189005282152	antecedent cultures	give	birth
+1.0	bucolic Aryan tribes	gradually merged with	bucolic tribes
+0.7410189005282152	antecedent cultures	give birth to	new milieu
+1.0	bucolic tribes	merged with	Aryan tribes
+1.0	tribes	merged with	bucolic tribes
+1.0	Aryan tribes	gradually merged with	Aryan tribes
+0.7410189005282152	antecedent cultures	give birth to	milieu
+0.7410189005282152	cultures	give birth to	new milieu
+1.0	Aryan tribes	merged with	Aryan tribes
+1.0	tribes	merged with	bucolic Aryan tribes
+1.0	bucolic Aryan tribes	merged with	bucolic tribes
+1.0	tribes	gradually merged with	Aryan tribes
+1.0	tribes	gradually merged with	bucolic Aryan tribes
+1.0	bucolic Aryan tribes	merged with	Aryan tribes
+1.0	bucolic tribes	gradually merged with	tribes
+1.0	Aryan tribes	gradually merged with	bucolic Aryan tribes
+1.0	Aryan tribes	gradually merged with	bucolic tribes
+1.0	bucolic Aryan tribes	merged with	tribes
+1.0	bucolic tribes	merged with	bucolic tribes
+1.0	bucolic Aryan tribes	gradually merged with	Aryan tribes
+0.7410189005282152	cultures	give birth to	milieu
+1.0	Aryan tribes	merged with	tribes
+1.0	tribes	gradually merged with	tribes
+1.0	tribes	merged with	Aryan tribes
+1.0	bucolic Aryan tribes	merged with	bucolic Aryan tribes
+1.0	bucolic tribes	gradually merged with	Aryan tribes
+1.0	tribes	gradually merged with	bucolic tribes
+1.0	Aryan tribes	merged with	bucolic Aryan tribes
+1.0	bucolic Aryan tribes	gradually merged with	bucolic Aryan tribes
+0.7410189005282152	cultures	give	birth
+1.0	bucolic tribes	gradually merged with	bucolic Aryan tribes
+1.0	bucolic tribes	penetrating	east
+1.0	Aryan tribes	penetrating	east
+1.0	tribes	penetrating	east
+1.0	bucolic Aryan tribes	penetrating	east
+1.0	knowledge	implements voluntarily as	labor
+1.0	people	had	knowledge
+1.0	people	had	knowledge
+1.0	knowledge	implements as	labor
+0.6097468261486962	people	knowledge of	iron
+0.7644258806221031	people	inhabiting	Indus River valley
+1.0	knowledge	implements voluntarily or otherwise as	labor
+0.7963882098979342	people	knowledge of	iron
+1.0	people	had	knowledge of iron
+1.0	people	had	knowledge of iron
+1.0	early political map	is with	increasing population over fluid boundaries
+1.0	early political map	comprised with	fluid boundaries
+1.0	early map	comprised of	copious independent states
+1.0	early map	comprised of	copious states
+1.0	early map	comprised with	fluid boundaries
+1.0	political map	comprised of	copious states
+1.0	map	comprised with	fluid boundaries
+1.0	map	comprised of	copious states
+1.0	political map	comprised of	copious independent states
+1.0	map	comprised of	independent states
+1.0	early political map	comprised of	states
+1.0	early map	comprised of	states
+1.0	map	comprised of	copious independent states
+1.0	political map	comprised with	fluid boundaries
+1.0	map	comprised of	states
+1.0	early map	comprised of	independent states
+1.0	early political map	comprised of	independent states
+1.0	political map	comprised of	states
+1.0	early political map	comprised of	copious states
+1.0	early political map	comprised of	copious independent states
+1.0	political map	comprised of	independent states
+1.0	north	Unified under	famous Gupta Dynasty
+1.0	north	Unified under	Gupta Dynasty
+1.0	north	touched	skies
+0.5203737800584413	far	were	concerned
+1.0	India	has	golden age
+1.0	dynasties	ruled	north Indian plains
+1.0	dynasties	ruled	north plains
+1.0	dynasties	ruled north plains By	600 BC
+1.0	dynasties	were	dynasties
+1.0	dynasties	ruling	kingdoms of Magadha
+1.0	dynasties	ruling	kingdoms
+0.7802942394140986	ruling	kingdoms of	Magadha
+0.7802942394140986	ruling	kingdoms of	Magadha
+1.0	them Mahabharta	detailing	war
+1.0	Indian settings Ramayana	in birth is	descendants of King Bharat
+1.0	them Mahabharta	detailing	war between Kauravas
+1.0	world	of	greatest epics
+0.7728560620712472	depicting	exploits of	lord Ram
+1.0	them birth	descendants of	King Bharat
+1.0	them	depicting	exploits
+1.0	them birth	is in	Indian settings Ramayana
+1.0	them	depicting	exploits of lord Ram
+0.9696080515582045	them	descendants of	King Bharat
+1.0	Ram	has	journey
+1.0	demonic clutches	is with	help of Ram simian companions
+1.0	Ramayana traces	lord	Ram 's journey
+1.0	advice	given by	Shri Krishna
+1.0	priced scriptures	is in	Indian Mythology
+1.0	Gita	scriptures in	Indian Mythology
+1.0	tAn ardent believer	breathing life in	tAn ardent believer in harmonym
+1.0	Mahatma Gandhi	revived tAn believer again during	India 's freedom struggle
+1.0	Mahatma Gandhi	revived again	tAn ardent believer in communal harmonyse virtues
+1.0	Mahatma Gandhi	revived again	tAn believer
+1.0	tAn believer	breathing life in	tAn ardent believer in harmonym
+1.0	tAn ardent believer	breathing	life
+1.0	tAn ardent believer	breathing life in	tAn ardent believer in communal harmonym
+1.0	Mahatma Gandhi	revived	tAn believer in harmonyse virtues
+1.0	Mahatma Gandhi	revived	tAn ardent believer
+1.0	tAn ardent believer	is in	communal harmonym
+1.0	Mahatma Gandhi	revived	tAn believer in communal harmonyse virtues
+1.0	tAn believer	breathing life in	tAn believer in communal harmonym
+1.0	Mahatma Gandhi	revived tAn believer again during	India 's freedom struggle against Colonialism
+1.0	tAn ardent believer	is in	communal harmonyse virtues
+1.0	Mahatma Gandhi	revived	tAn ardent believer in communal harmonyse virtues
+1.0	Mahatma Gandhi	revived tAn believer during	India 's freedom struggle against Colonialism
+1.0	Mahatma Gandhi	revived	tAn ardent believer in harmonyse virtues
+1.0	tAn believer	breathing	life
+1.0	tAn ardent believer	breathing life in	tAn believer in harmonym
+1.0	tAn believer	breathing life in	tAn ardent believer
+1.0	India	during	freedom struggle against British Colonialism
+1.0	Mahatma Gandhi	revived tAn believer during	India 's freedom struggle
+1.0	tAn ardent believer	breathing life in	tAn ardent believer
+1.0	Mahatma Gandhi	revived again	tAn ardent believer
+1.0	tAn believer	breathing life in	tAn ardent believer in communal harmonym
+1.0	tAn believer	breathing life in	tAn believer in harmonym
+1.0	Mahatma Gandhi	revived tAn believer again during	India 's freedom struggle against British Colonialism
+1.0	tAn ardent believer	breathing	new life
+1.0	Mahatma Gandhi	revived again	tAn believer in harmonyse virtues
+1.0	Mahatma Gandhi	revived again	tAn ardent believer in harmonyse virtues
+1.0	tAn ardent believer	breathing life in	tAn believer
+1.0	tAn believer	breathing life in	tAn believer
+1.0	Mahatma Gandhi	revived tAn believer during	India 's freedom struggle against British Colonialism
+1.0	tAn ardent believer	breathing life in	tAn believer in communal harmonym
+1.0	Mahatma Gandhi	revived again	tAn believer in communal harmonyse virtues
+1.0	tAn believer	breathing	new life
+1.0	Mahatma Gandhi	revived	tAn believer
+1.0	ardent believer	is in	communal harmony
+0.9647261841418419	religions	form	rich social fabric
+0.9647261841418419	religions	form	rich fabric
+0.9647261841418419	religions	form	fabric
+0.9647261841418419	religions	form	social fabric

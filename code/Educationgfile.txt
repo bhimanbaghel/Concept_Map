@@ -1,0 +1,32 @@
+latin	ēducātiō erect from ē from	latin	0.999999920693
+euclid	 of elements published in 1607	plato	0.490748536122
+athens	 institution of higher learning in europe.the city in	egypt	0.398664012951
+athens	 institution of higher learning in europe.the	city	0.29282666243
+outlook	 influence societies of	china	0.214122207785
+mathematics	 extending in west to	indus	0.187808174851
+renaissance	 is in 	europe	0.328194598903
+europe	 saw 	europe	0.999999982547
+europe	modern saw 	europe	0.999999982547
+euclid	 like elements for	chinese	0.187863464281
+secular	educational outlook is in 	europe	0.232492296423
+outlook	 is in 	europe	0.235314014268
+kindergarten	providea child centred 	preschool	0.788148111655
+indigenous	education refers to inclusion of	indigenous	1.00000008984
+indigenous	education methods growing recognition of be often can response through processes of	colonialism	0.471533742558
+indigenous	education methods growing recognition of be in post colonial context can response through processes of	colonialism	0.471533742558
+indigenous	education methods growing recognition of be often in post colonial context can response through processes of	colonialism	0.471533742558
+autodidacts	 include george bernard shaw	playwright	0.300607813444
+autodidacts	 include abraham lincoln	u.s.	0.0749098936664
+autodidacts	 include frank zappa	composer	0.328664552207
+autodidacts	 include thomas alva edison	inventor	0.312065019881
+autodidacts	 include recording	engineer	0.259444196292
+autodidacts	 include tadao ando	architect	0.275452919279
+autodidacts	 include srinivasa ramanujan	mathematician	0.424104411578
+international	 additionally has identified 	corruption	0.201865390806
+international	development agency project started with support of former	american	0.364706626465
+psychology	 contributes to 	cognitive	0.791816325469
+intelligence	 is correlated to	intelligence	1.00000005327
+intelligence	 is more closely correlated to 	intelligence	1.00000005327
+stress	b promoting 	autonomy	0.234512193256
+finnish	innovation fund sitra is in 	finland	0.642131148483
+sitra	 is in 	finland	0.350111668247

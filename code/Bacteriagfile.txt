@@ -1,0 +1,15 @@
+bacteria	 domain of 	prokaryotic	0.718735478882
+bacteria	 domain of prokaryotic	microorganisms	0.886766259799
+bacteria	 constitute large domain of	microorganisms	0.886766259799
+bacteria	 large domain of 	prokaryotic	0.718735478882
+bacteria	 large domain of prokaryotic	microorganisms	0.886766259799
+bacteria	 constitute large domain of	prokaryotic	0.718735478882
+bacteria	 constitute large domain of prokaryotic	microorganisms	0.886766259799
+bacteria	 were among life forms appear on	earth	0.291792942304
+bacteria	 were among first life forms appear on	earth	0.291792942304
+earth	 of 	crust	0.498336017205
+bacteriology	 branch of 	microbiology	0.862883692935
+decomposition	 are responsible for 	putrefaction	0.566451137161
+antibiotics	 are also used in 	farming	0.365297881713
+membrane	 bound 	organelles	0.743745275912
+bacteria	 traditionally included 	prokaryotes	0.718429452163

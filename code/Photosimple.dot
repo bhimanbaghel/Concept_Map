@@ -1,0 +1,43 @@
+strict digraph  {
+	graph [center=true,
+		len=f,
+		overlap=false,
+		splines=false
+	];
+	earth -> atmosphere	 [label=" of ",
+		len=2,
+		penwidth=4.68757353784,
+		weight=0.468757353784];
+	photosynthesis -> earth	 [label=" producing oxygen content of",
+		len=2.4,
+		penwidth=3.37825585907,
+		weight=0.337825585907];
+	photosynthesis -> atmosphere	 [label=" producing oxygen content of earth 's",
+		len=3.6,
+		penwidth=3.81516313725,
+		weight=0.381516313725];
+	photosynthesis -> oxygen	 [label=" producing ",
+		len=2,
+		penwidth=6.51532229187,
+		weight=0.651532229187];
+	photosynthesis -> species	 [label=" is performed differently by different",
+		len=3.0,
+		penwidth=3.84789140696,
+		weight=0.384789140696];
+	proteins -> bacteria	 [label=" are held in",
+		len=6,
+		penwidth=6.77088584379,
+		weight=0.677088584379];
+	energy -> electrons	 [label=" is in light dependent reactions used to strip",
+		len=4.8,
+		penwidth=4.73565603622,
+		weight=0.473565603622];
+	carbon -> carbon	 [label="dioxide is in calvin cycle incorporated into already existing organic",
+		len=6.0,
+		penwidth=9.99999907589,
+		weight=0.999999907589];
+	photosynthetic -> electrons	 [label="organisms water as sources of",
+		len=3.0,
+		penwidth=5.65052818009,
+		weight=0.565052818009];
+}

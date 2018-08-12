@@ -1,0 +1,14 @@
+strict digraph  {
+	berlin -> prussia	 [label=" was capital of kingdom of",
+		penwidth=1.90963284087,
+		weight=0.381926568173];
+	berlin -> municipality	 [label=" was third largest",
+		penwidth=0.784158814555,
+		weight=0.156831762911];
+	city -> berlin	 [label=" divided capital into east",
+		penwidth=1.68927691374,
+		weight=0.337855382748];
+	city -> germany	 [label=" regained its status as capital of",
+		penwidth=0.976139270385,
+		weight=0.195227854077];
+}
